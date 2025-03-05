@@ -1,4 +1,4 @@
-# pokemonSearch 🎮
+# Pokémon Search APP in JS🎮
 
 
 
